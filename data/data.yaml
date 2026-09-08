@@ -1,0 +1,16 @@
+path: C:\Users\ASUS\Desktop\Coding\Data Science Projects\Real_time_PPE\dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 10
+names:
+- Hardhat
+- Mask
+- NO-Hardhat
+- NO-Mask
+- NO-Safety Vest
+- Person
+- Safety Cone
+- Safety Vest
+- machinery
+- vehicle

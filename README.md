@@ -244,6 +244,4 @@ Run the notebook to reproduce the dataset analysis, model evaluation, and infere
 
 Computer Science / Data Science | Machine Learning | Deep Learning | Computer Vision
 
-``` 
-Also, **don't claim "real-time safety monitoring" as a completed feature**—your current project demonstrates fast object detection and ONNX export, but not a completed webcam/video monitoring application. This README keeps that distinction clear.
-```
+
